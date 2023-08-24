@@ -1,0 +1,6 @@
+Testando git com a turma
+Testando o git com a turma B
+
+Funcionando corretamente!
+
+tema : gerenciamento de alocação
